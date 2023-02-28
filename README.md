@@ -27,7 +27,7 @@
 
 # 📖 HELLO-RAILS-REACT-ONE-APP <a name="about-project"></a>
 
- **HELLO-RAILS-REACT-ONE-APP** is a project which connect previous knowledge of ROR with new knowledge as one get a chance to use Webpack with jsbundling-rails gem.
+ **HELLO-RAILS-REACT-ONE-APP** is a project which connect previous knowledge of Ruby on Rails with new knowledge as one get a chance to use Webpack with jsbundling-rails gem.
 
 
 ## 🛠 Built With <a name="built-with"></a>
