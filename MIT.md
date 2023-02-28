@@ -1,4 +1,4 @@
-Copyright 2023, [Tanusri Ghosh]
+Copyright 2023, [TANUSRI GHOSH]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this [HELLO-RAILS-REACT-ONE-APP] and associated documentation files, to deal in the [HELLO-RAILS-REACT-ONE-APP] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [HELLO-RAILS-REACT-ONE-APP], and to permit persons to whom the [HELLO-RAILS-REACT-ONE-APP] is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the [HELLO-RAILS-REACT-ONE-APP].
